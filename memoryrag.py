@@ -153,7 +153,7 @@ You will now begin the conversation with the user.
 """
 
 # vLLM Server Setup
-BASE_URL = "https://59o5ah8471rths-8000.proxy.runpod.net/v1"        # Replace with the new pod's ID :)
+BASE_URL = "https://zur81ba7zypznm-8000.proxy.runpod.net/v1"        # Replace with the new pod's ID :)
 llm = ChatOpenAI(
     base_url=BASE_URL,
     api_key="EMPTY",
